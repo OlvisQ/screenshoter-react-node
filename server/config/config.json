@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "hwdbuser1",
+    "password": "UeUt6~(7XeeG",
+    "database": "hwss_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "hwdbuser1",
+    "password": "UeUt6~(7XeeG",
+    "database": "hwss_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "hwdbuser1",
+    "password": "UeUt6~(7XeeG",
+    "database": "hwss_db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

@@ -1,0 +1,11 @@
+.fullscreen {
+  height: 100%;
+}
+
+.my-component {
+  background: #303030;
+}
+
+.fullscreen-enabled {
+  background: #303030;
+}
